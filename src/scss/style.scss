@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #999;
+// color: #FFF;
+display: flex;
+}
+.test {
+  text-align: center;
+  &__box {
+    margin: 51px;
+  }
+}
+
+h1 {
+  font-size: 50px;
+  // color: red;
+}
